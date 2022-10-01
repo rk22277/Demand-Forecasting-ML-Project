@@ -10,7 +10,7 @@ https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy
 The dataset is used to analyze total spirits sales in Iowa of individual products at the store level.
 
 
-The Machine Learning Model used are
+The Machine Learning Model used are</br>
 ARIMA/SARIMA
 Linear Regression
 Random Forest
