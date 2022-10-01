@@ -9,10 +9,18 @@ https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy
 
 The dataset is used to analyze total spirits sales in Iowa of individual products at the store level.
 
+Followed CRISP-DM Methodology 
+
+Business Understanding </br>
+Data Understanding </br>
+Data Preparation </br>
+Modelling </br>
+Evaluation </br>
+Deployment </br>
 
 The Machine Learning Model used are</br></br>
-ARIMA/SARIMA</br></br>
-Linear Regression</br></br>
+ARIMA/SARIMA</br>
+Linear Regression</br>
 Random Forest</br>
 FBProphet</br>
 XGBoost
